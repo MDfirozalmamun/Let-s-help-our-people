@@ -19,7 +19,7 @@ h1{
     font-size: 100px;
     background-color: rgba(0, 0, 0, 0.245);
 }
-p{
+#text-top-banner{
     font-size: 20px;
     background-color: rgba(0, 0, 0, 0.245);
 }
@@ -36,4 +36,16 @@ button:hover{
     background-color: rgb(3, 40, 100);
     color: aliceblue;
     transition: .5s;
+}
+
+.D-today{
+    text-align: center;
+}
+.Tk{
+    display: flex;
+    
+}
+
+.Other{
+    text-align: center;
 }
