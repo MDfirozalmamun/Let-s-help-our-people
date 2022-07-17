@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bg{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    height: 100%;
+    background-image: url(image/01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+h1{
+    font-size: 100px;
+    background-color: rgba(0, 0, 0, 0.245);
+}
+p{
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.245);
+}
+button{
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    background-color: rgb(38, 0, 255);
+    padding: 15px 25px;
+    border-color: aqua;
+    border-radius: 10px;
+}
