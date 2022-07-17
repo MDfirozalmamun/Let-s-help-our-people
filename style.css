@@ -26,8 +26,14 @@ p{
 button{
     font-weight: 900;
     color: rgb(255, 255, 255);
-    background-color: rgb(38, 0, 255);
+    background-color: rgb(2, 92, 5);
     padding: 15px 25px;
     border-color: aqua;
     border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(3, 40, 100);
+    color: aliceblue;
+    transition: .5s;
 }
