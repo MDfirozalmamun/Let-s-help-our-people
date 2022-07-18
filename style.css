@@ -181,12 +181,15 @@ button:hover{
  .pr{
     text-align: center;
  }
-
+#our-update{
+    padding-bottom: 5%;
+}
  .update{
     text-align: center;
     padding-bottom: 20px;
 
  }
+
   
  .mail{
     
@@ -202,7 +205,8 @@ button:hover{
 
  footer{
     color: rgb(11, 204, 1);
-    padding: 20px;
-    background-color: darkolivegreen;
-    padding-top: 50px;
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(48, 54, 37);
+    
  }
