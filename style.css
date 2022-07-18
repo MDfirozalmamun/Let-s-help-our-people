@@ -184,4 +184,25 @@ button:hover{
 
  .update{
     text-align: center;
+    padding-bottom: 20px;
+
+ }
+  
+ .mail{
+    
+    width: 40%;
+    padding: 30px 20px;
+   
+    margin-left: 30%;
+   text-align: center;
+    background-color: blanchedalmond;
+    
+
+ }
+
+ footer{
+    color: rgb(11, 204, 1);
+    padding: 20px;
+    background-color: darkolivegreen;
+    padding-top: 50px;
  }
