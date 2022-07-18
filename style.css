@@ -80,8 +80,6 @@ button:hover{
     color: rgba(83, 83, 83, 0.368);
 }
 
-
-
 .our{
     text-align: center;
     padding-bottom: 50px;
@@ -139,12 +137,51 @@ button:hover{
 }
 #Shelter img{
     width: 25%;
-
 }
 
 .they{
     display: flex;
+    padding-bottom: 110px;
+    
 }
 .need{
-    width: 50%;
+    width: 40%;
+    padding: 20px 30px;
+    margin-left: 20%;
 }
+#head{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.image img{
+    width: 40%;
+    height: 100%;
+    border-radius: 10px;
+
+}
+
+.image2 img{
+    width: 40%;
+    height: 80%;
+        border-radius: 10px;
+        padding-left: 300px;    
+}
+.need2{
+    width: 40%;
+    padding: 20px 30px;
+    margin-right: 20%;}
+
+ .head2{
+
+        font-weight: 500;
+        font-size: 40px;
+        text-align: right;
+ }
+ .pr{
+    text-align: center;
+ }
+
+ .update{
+    text-align: center;
+ }
