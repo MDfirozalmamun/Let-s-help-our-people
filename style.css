@@ -15,7 +15,7 @@ body{
     background-size: cover;
     
 }
-h1{
+#Let{
     font-size: 100px;
     background-color: rgba(0, 0, 0, 0.245);
 }
@@ -27,7 +27,7 @@ button{
     font-weight: 900;
     color: rgb(255, 255, 255);
     background-color: rgb(2, 92, 5);
-    padding: 15px 25px;
+    padding: 15px 35px;
     border-color: aqua;
     border-radius: 10px;
     cursor: pointer;
@@ -40,12 +40,47 @@ button:hover{
 
 .D-today{
     text-align: center;
+    padding-top: 70px;
 }
-.Tk{
+#D2{
+    font-size: 70px;
+}
+#pra{
+    padding-bottom: 15px;
+}
+
+
+.now{
     display: flex;
+    padding-left: 24%;
+}
+
+.card-name{
+    width: 10%;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(244, 233, 220);
+    box-shadow: 0.5px 0.5px 2px gray;
+    cursor: pointer;
     
+}
+.card-name:hover{
+    box-shadow: 3px 3px 7px gray;
+    background-color: antiquewhite;
+    color: darkblue;
+    transition: 0.5s;
+    
+    
+
 }
 
 .Other{
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    color: rgba(83, 83, 83, 0.368);
 }
+
+
