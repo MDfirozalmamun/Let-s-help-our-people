@@ -68,12 +68,9 @@ button:hover{
 }
 .card-name:hover{
     box-shadow: 3px 3px 7px gray;
-    background-color: antiquewhite;
+    background-color: rgb(161, 245, 150);
     color: darkblue;
     transition: 0.5s;
-    
-    
-
 }
 
 .Other{
@@ -84,3 +81,45 @@ button:hover{
 }
 
 
+
+.our{
+    text-align: center;
+}
+#our{
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.plans{
+    display: flex;
+    padding-bottom: 100px;
+    
+}
+
+#Food{
+    width: 20%;
+    
+    background-color: cornflowerblue;
+    text-align: center;
+    margin-left: 50px;
+    
+
+}
+
+#Shelter{
+    width: 20%;
+    padding: 20px 20px;
+        background-color: rgb(100, 210, 237);
+        text-align: center;
+        margin-left: 50px;
+        
+
+}
+#Educaton{
+    width: 20%;
+        background-color: rgb(180, 100, 237);
+        text-align: center;
+        margin-left: 50px;
+        
+        
+}
