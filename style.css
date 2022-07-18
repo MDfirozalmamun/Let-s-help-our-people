@@ -84,6 +84,7 @@ button:hover{
 
 .our{
     text-align: center;
+    padding-bottom: 50px;
 }
 #our{
     font-weight: 900;
@@ -93,33 +94,57 @@ button:hover{
 .plans{
     display: flex;
     padding-bottom: 100px;
+    padding-left: 12%;
+    border-radius: 10px;
     
 }
 
 #Food{
     width: 20%;
-    
+    padding: 100px 20px;
     background-color: cornflowerblue;
     text-align: center;
-    margin-left: 50px;
+    margin-left: 60px;
+    border-radius: 10px;
+    border-top: 10px solid rgb(252, 214, 1);
     
 
 }
 
 #Shelter{
     width: 20%;
-    padding: 20px 20px;
+    padding: 100px 20px;
         background-color: rgb(100, 210, 237);
         text-align: center;
-        margin-left: 50px;
+        margin-left: 60px;
+        border-radius: 10px;
+        border-top: 10px solid rgb(247, 4, 97);
+
         
 
 }
 #Educaton{
     width: 20%;
+    padding: 100px 20px;
         background-color: rgb(180, 100, 237);
         text-align: center;
-        margin-left: 50px;
+        margin-left: 60px;
+        border-radius: 10px;
+        border-top: 10px solid rgb(234, 242, 8);
         
         
+}
+#Educaton img{
+    width: 20%;
+}
+#Shelter img{
+    width: 25%;
+
+}
+
+.they{
+    display: flex;
+}
+.need{
+    width: 50%;
 }
