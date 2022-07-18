@@ -136,7 +136,7 @@ button:hover{
     width: 20%;
 }
 #Shelter img{
-    width: 25%;
+    width: 20%;
 }
 
 .they{
@@ -147,7 +147,7 @@ button:hover{
 .need{
     width: 40%;
     padding: 20px 30px;
-    margin-left: 20%;
+    margin-left: 14%;
 }
 #head{
     font-weight: 500;
@@ -155,22 +155,26 @@ button:hover{
 }
 
 .image img{
-    width: 40%;
-    height: 100%;
+    width: 48%;
+    height: 90%;
     border-radius: 10px;
+    padding-left: 20%;
 
 }
 
 .image2 img{
-    width: 40%;
+    width: 48%;
     height: 80%;
         border-radius: 10px;
-        padding-left: 300px;    
+        padding-left: 250px;
+        padding-top: 55px;
 }
 .need2{
-    width: 40%;
+    width: 50%;
     padding: 20px 30px;
-    margin-right: 20%;}
+    margin-right: 14%;
+    
+}
 
  .head2{
 
@@ -179,7 +183,7 @@ button:hover{
         text-align: right;
  }
  .pr{
-    text-align: center;
+    text-align: justify;
  }
 #our-update{
     padding-bottom: 5%;
