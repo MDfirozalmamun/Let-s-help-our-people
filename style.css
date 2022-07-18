@@ -199,9 +199,16 @@ button:hover{
     margin-left: 30%;
    text-align: center;
     background-color: blanchedalmond;
-    
-
  }
+.button{
+    font-weight: 900;
+        color: rgb(255, 255, 255);
+        background-color: rgb(2, 92, 5);
+        padding: 05px 25px;
+        border-color: aqua;
+        border-radius: 5px;
+        cursor: pointer;
+}
 
  footer{
     color: rgb(11, 204, 1);
