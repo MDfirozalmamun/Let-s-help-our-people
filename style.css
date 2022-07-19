@@ -78,7 +78,10 @@ button:hover{
     padding-top: 50px;
     padding-bottom: 100px;
     color: rgba(83, 83, 83, 0.368);
-}
+} 
+hr{
+     width: 46%;
+ }
 
 .our{
     text-align: center;
@@ -164,27 +167,28 @@ button:hover{
 
 .image2 img{
     width: 48%;
-    height: 80%;
+    height: 90%;
         border-radius: 10px;
         padding-left: 250px;
         padding-top: 55px;
 }
 .need2{
-    width: 50%;
+    
     padding: 20px 30px;
     margin-right: 14%;
     
 }
-
+.pr{
+    text-align: right;
+}
  .head2{
 
         font-weight: 500;
         font-size: 40px;
         text-align: right;
  }
- .pr{
-    text-align: justify;
- }
+ 
+ 
 #our-update{
     padding-bottom: 5%;
 }
